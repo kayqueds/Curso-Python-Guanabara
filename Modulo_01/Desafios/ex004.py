@@ -18,4 +18,3 @@ print(f'Ele é um número ou texto? {eTextoNumero}')
 print(f'Ele é todo em maiúsculo? {eTudoMaiusculo}')
 print(f'Ele é todo em minúsculo? {eTudoMinusculo}')
 print(f'Ele tem espaco? {temEspaco}')
-
