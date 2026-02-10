@@ -1,3 +1,5 @@
 meta_portugal.py
 biblioteca_time.py
 .idea/
+__pycache__/
+*.pyc
